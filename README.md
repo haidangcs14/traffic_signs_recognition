@@ -1,4 +1,4 @@
-# Traffic signs recognition
+# Nhận dạng biển báo giao thông 
 
 Để bắt đầu thực hiện project, chúng ta cần cài đặt các thư viện cần thiết bằng cách nhập lệnh sau vào cmd của bạn:
 
